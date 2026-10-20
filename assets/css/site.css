@@ -8,7 +8,7 @@
 
 *{margin:0;padding:0;box-sizing:border-box}
 :root{
-  --green:#6DF84D; --gdark:#2E9E1E; --gdeep:#268016; --gsoft:#A8F596;
+  --green:#6DF84D; --gdark:#268016; --gdeep:#1f6a12; --gsoft:#A8F596;
   --bg:#fff; --soft:#f4faf1; --soft2:#e9f5e4;
   --ink:#12210f; --mut:#4a5c45; --line:#dcecd6; --dark:#0d160b;
   --r:14px; --shadow:0 18px 40px rgba(30,80,20,.10);
@@ -170,7 +170,7 @@ footer.foot{background:var(--dark);color:rgba(255,255,255,.72);padding:54px 0 11
 .flogo{display:flex;align-items:center;gap:10px;color:var(--green)}
 .flogo svg{height:30px;width:auto}
 .flogo span{color:rgba(255,255,255,.85);font-weight:600;letter-spacing:.5px}
-.fcol h4{font-size:12px;letter-spacing:2.5px;color:var(--green);font-weight:700;margin-bottom:14px}
+.fcol h3{font-size:12px;letter-spacing:2.5px;color:var(--green);font-weight:700;margin-bottom:14px}
 .fcol a{display:block;color:rgba(255,255,255,.75);text-decoration:none;margin-bottom:10px}
 .fcol a:hover{color:#fff}
 .dis{color:rgba(255,255,255,.65);font-size:12px;letter-spacing:.2px;line-height:1.75;margin-top:18px;max-width:560px}
