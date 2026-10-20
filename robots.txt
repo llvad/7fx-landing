@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /lp/
+Disallow: /api/
+Disallow: /tesekkurler.html
+
+Sitemap: https://llvad.github.io/7fx-landing/sitemap.xml

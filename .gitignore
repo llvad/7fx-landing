@@ -1,0 +1,11 @@
+# kaynak medya ve üretim artıkları (büyük / yeniden üretilebilir)
+_src/
+# form kayıtları ve gizli ayarlar
+api/data/*
+!api/data/.htaccess
+!api/data/.gitkeep
+api/config.php
+# araçlar
+node_modules/
+.lighthouseci/
+.DS_Store

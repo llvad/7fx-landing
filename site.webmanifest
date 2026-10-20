@@ -1,0 +1,12 @@
+{
+  "name": "7FX — Ayrıcalıklı Yatırımcı Programı",
+  "short_name": "7FX",
+  "icons": [
+    { "src": "assets/img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#2E9E1E",
+  "background_color": "#ffffff",
+  "display": "browser",
+  "start_url": "./"
+}
